@@ -1,10 +1,3 @@
-没问题！我已经将所有的 “application” 和 “app” 替换成了更专业的 **“health tracker”**（健康追踪器），并将各个界面的名称和描述进行了深度定制，使其完全融入 **StepBloom**（步履生花、健康绽放）以及 **SDG 3（良好健康与福祉）** 的运动与健康主题。
-
-以下是为你全面美化和修改后的 `README.md` 内容，你可以直接一键复制到 GitHub 中：
-
----
-
-```markdown
 # StepBloom - Project 2 🌸
 
 StepBloom is a comprehensive, modern **health tracker** built with Android Jetpack Compose. It empowers users to monitor their daily physical movements, cultivate sustainable wellness habits, and allow their personal health journey to fully bloom. This project is proudly aligned with **UN Sustainable Development Goal 3: Good Health and Well-being**.
@@ -91,5 +84,3 @@ Follow these steps to get this **health tracker** running on your local developm
     * Select your target deployment device and click the green **Run** button (`Shift + F10`).
 6.  **Verify Core Operations**
     * Navigate to the *Activity Logger*, save a test exercise entry, and watch it populate immediately in your *Fitness Journal* while syncing securely to your Firebase backend.
-
-```
